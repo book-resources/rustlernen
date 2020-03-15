@@ -1,0 +1,3 @@
+[dependencies]
+
+lib1 = { path = "../lib1" }
