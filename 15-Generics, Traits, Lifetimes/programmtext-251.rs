@@ -1,0 +1,3 @@
+fn some_function<T: Print, U: Print>(a: T, b: U) {
+	// ...
+}

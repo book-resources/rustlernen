@@ -1,0 +1,3 @@
+fn some_function<T: Trait1 + Trait2>(a: T) {
+	// ...
+}

@@ -1,0 +1,3 @@
+fn some_function(a: impl Trait1 + Trait2) {
+	// ...
+}
